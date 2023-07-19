@@ -1,0 +1,17 @@
+{
+    "name": "my-balsoy-form-app",
+    "version": "1.0.0",
+    "description": "Проект для обробки форми Balsoy",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.13.7",
+      "body-parser": "^1.19.0"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "",
+    "license": "MIT"
+  }
+  
